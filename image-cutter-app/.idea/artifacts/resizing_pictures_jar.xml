@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="resizing_pictures:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/resizing_pictures_jar</output-path>
+    <root id="root">
+      <element id="archive" name="resizing_pictures.jar">
+        <element id="module-output" name="resizing_pictures" />
+      </element>
+      <element id="library" level="project" name="Substance" />
+    </root>
+  </artifact>
+</component>

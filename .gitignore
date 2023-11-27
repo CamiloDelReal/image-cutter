@@ -1,0 +1,6 @@
+out/
+
+*.class
+image-cutter-app/.DS_Store
+screenshots/.DS_Store
+.DS_Store
