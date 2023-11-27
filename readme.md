@@ -7,7 +7,7 @@ This is a very old project, from my time at the university in 2011.
 - Image exporter
 
 ### Technologies used
-- Java 8+
+- Java 1.6+
 - Java Swing + JFormDesigner
 
 ### Screenshots
